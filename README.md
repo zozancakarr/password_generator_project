@@ -1,4 +1,4 @@
-# password_generator_project
+# Password Generator Project
 Password Generator Project
 This project allows you to generate strong and secure passwords based on user input.
 By entering the desired number of letters, symbols, and numbers, the system will create a random password that meets your security needs.
